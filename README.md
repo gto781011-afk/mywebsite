@@ -31,13 +31,13 @@ pnpm preview
 
 - `src/App.tsx`：課程文案、導覽與各區塊。
 - `src/components/Workflow.tsx`：首頁流程視覺。
-- `src/App.tsx` 的 `registrationUrl`：課程報名網址。
+- `src/App.tsx` 的 `seminarNotesUrl`：免費說明會筆記網址。
 - `src/styles/globals.css`、`theme.css`：版面與設計色彩。
 - `public/course-outline.txt`：下載的課程大綱。
 
 ## 報名功能狀態
 
-桌面導覽、手機選單與頁尾的「立即報名課程」連至 https://google.com/（依指定網址設定）。課程日期、時數、形式與費用仍待提供。本站不收集報名資料。
+桌面導覽、手機選單與頁尾的「獲取免費說明會筆記」連至 https://www.fansnetwork.ai/m/CBy1h6eHMh0Y1yiz（依指定網址設定）。課程日期、時數、形式與費用仍待提供。本站不收集報名資料。
 
 ## 來源
 
