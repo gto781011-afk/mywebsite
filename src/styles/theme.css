@@ -1,0 +1,14 @@
+@theme {
+ --color-brand-solid: #171717;
+ --color-brand-solid_hover: #373832;
+ --color-brand: #639900;
+ --color-primary: #f7f6f2;
+ --color-primary_hover: #eeeee8;
+ --color-secondary: #171717;
+ --color-secondary_hover: #30312b;
+ --color-tertiary: #55554f;
+ --color-tertiary_hover: #171717;
+ --color-fg-quaternary: #71716b;
+ --color-fg-quaternary_hover: #171717;
+ --text-md: 1rem;
+}
